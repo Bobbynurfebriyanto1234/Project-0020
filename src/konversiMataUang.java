@@ -5,7 +5,7 @@
 	    public static void main(String[] args) {
 	        Scanner masukan = new Scanner(System.in);
 	        float rupiah, dolar;
-	        System.out.print("Masukan Dolar Terbanyak = ");
+	        System.out.print("Masukan Dolar Terkecil = ");
 	        dolar = masukan.nextFloat();
 	        rupiah = (float) (dolar*14000);
 	        
